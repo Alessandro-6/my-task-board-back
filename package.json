@@ -1,0 +1,27 @@
+{
+  "name": "my-task-board-back",
+  "version": "1.0.0",
+  "description": "Task board manager",
+  "keywords": [
+    "Task"
+  ],
+  "homepage": "https://github.com/Alessandro-6/my-task-board-back#readme",
+  "bugs": {
+    "url": "https://github.com/Alessandro-6/my-task-board-back/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alessandro-6/my-task-board-back.git"
+  },
+  "license": "ISC",
+  "author": "Alessandro-6",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
